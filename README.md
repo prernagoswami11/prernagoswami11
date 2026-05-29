@@ -110,14 +110,6 @@ I'm an **Intermediate Data Analyst** actively building a portfolio at the inters
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=prernagoswami11&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4" />
-</div>
-
----
-
 ## 📚 Currently Learning
 
 ```python
