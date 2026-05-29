@@ -85,7 +85,7 @@ I'm an **Intermediate Data Analyst** actively building a portfolio at the inters
 | 🏦 [HR Analytics — Banking](https://github.com/prernagoswami11/HR-Analytics-for-Banking-Sector) | HR / Finance |  Power BI | Attrition drivers, workforce structure & KPIs |
 | 🛒 [BigBasket Product Analysis](https://github.com/prernagoswami11/bigbasket-product-analysis) | E-Commerce | Python, IQR method | 27,555 products · pricing outliers · discount patterns |
 | 💳 [Loan Sanction EDA](https://github.com/prernagoswami11/Loan-Sanction-Test) | FinTech | Python, Pandas, Seaborn | Credit history, income patterns & demographic factors |
-| 🚕 [Mobility / Cab Analytics](https://github.com/prernagoswami11/Mobility-Analysis) | Transport | Power BI | MYSQL | Cab service demand & behavioral patterns |
+| 🚕 [Mobility / Cab Analytics](https://github.com/prernagoswami11/Mobility-Analysis) | Transport | Power BI, MYSQL | Cab service demand & behavioral patterns |
 
 ---
 
