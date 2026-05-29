@@ -59,8 +59,6 @@ I'm an **Intermediate Data Analyst** actively building a portfolio at the inters
 
 <!-- PROJECT CARDS using github-readme-stats -->
 
- ## 📂 Featured Projects
-
 <a href="https://github.com/prernagoswami11/-zomato-india-restaurants-eda">
   <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=prernagoswami11&repo=-zomato-india-restaurants-eda&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
@@ -84,10 +82,10 @@ I'm an **Intermediate Data Analyst** actively building a portfolio at the inters
 | Project | Domain | Tools | Key Insight |
 |---|---|---|---|
 | 🍽️ [Zomato India EDA](https://github.com/prernagoswami11/-zomato-india-restaurants-eda) | Food & Hospitality | Python, Pandas, Matplotlib | 99 cities · cuisines · pricing & ratings analysis |
-| 🏦 [HR Analytics — Banking](https://github.com/prernagoswami11/HR-Analytics-for-Banking-Sector) | HR / Finance | Python, Seaborn | Attrition drivers, workforce structure & KPIs |
+| 🏦 [HR Analytics — Banking](https://github.com/prernagoswami11/HR-Analytics-for-Banking-Sector) | HR / Finance |  Power BI | Attrition drivers, workforce structure & KPIs |
 | 🛒 [BigBasket Product Analysis](https://github.com/prernagoswami11/bigbasket-product-analysis) | E-Commerce | Python, IQR method | 27,555 products · pricing outliers · discount patterns |
 | 💳 [Loan Sanction EDA](https://github.com/prernagoswami11/Loan-Sanction-Test) | FinTech | Python, Pandas, Seaborn | Credit history, income patterns & demographic factors |
-| 🚕 [Mobility / Cab Analytics](https://github.com/prernagoswami11/Mobility-Analysis) | Transport | Python | Cab service demand & behavioral patterns |
+| 🚕 [Mobility / Cab Analytics](https://github.com/prernagoswami11/Mobility-Analysis) | Transport | Power BI | MYSQL | Cab service demand & behavioral patterns |
 
 ---
 
