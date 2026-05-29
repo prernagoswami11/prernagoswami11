@@ -113,7 +113,7 @@ I'm an **Intermediate Data Analyst** actively building a portfolio at the inters
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=prernagoswami11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=prernagoswami11&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4" />
 </div>
 
 ---
@@ -123,7 +123,6 @@ I'm an **Intermediate Data Analyst** actively building a portfolio at the inters
 ```python
 skills_in_progress = {
     "Machine Learning": ["Linear Regression", "Classification", "Model Evaluation"],
-    "SQL Advanced":     ["Window Functions", "CTEs", "Query Optimization"],
     "Visualization":    ["Reusable Power BI templates", "Plotly dashboards"],
     "Portfolio":        ["End-to-end ML project", "Kaggle competitions"]
 }
