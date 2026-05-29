@@ -59,18 +59,20 @@ I'm an **Intermediate Data Analyst** actively building a portfolio at the inters
 
 <!-- PROJECT CARDS using github-readme-stats -->
 
+ ## 📂 Featured Projects
+
 <a href="https://github.com/prernagoswami11/-zomato-india-restaurants-eda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prernagoswami11&repo=-zomato-india-restaurants-eda&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=prernagoswami11&repo=-zomato-india-restaurants-eda&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 <a href="https://github.com/prernagoswami11/HR-Analytics-for-Banking-Sector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prernagoswami11&repo=HR-Analytics-for-Banking-Sector&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=prernagoswami11&repo=HR-Analytics-for-Banking-Sector&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 
 <a href="https://github.com/prernagoswami11/bigbasket-product-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prernagoswami11&repo=bigbasket-product-analysis&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=prernagoswami11&repo=bigbasket-product-analysis&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 <a href="https://github.com/prernagoswami11/Loan-Sanction-Test">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prernagoswami11&repo=Loan-Sanction-Test&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=prernagoswami11&repo=Loan-Sanction-Test&theme=tokyonight&hide_border=true&border_radius=12" />
 </a>
 
 <br/><br/>
@@ -93,8 +95,8 @@ I'm an **Intermediate Data Analyst** actively building a portfolio at the inters
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prernagoswami11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prernagoswami11&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
+ <img src="https://github-readme-stats.shion.dev/api?username=prernagoswami11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prernagoswami11&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
 
 <br/>
 
